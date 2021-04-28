@@ -302,17 +302,13 @@ margin-bottom:31px; margin-top:130px; text-align: center;}
 .cont2 {display: flex; justify-content: space-between; margin-top:60px;}
 .left-side2 {width:auto;
        height:500px;
-         display: flex; justify-content: start; }
+        background-color: #839857; display: flex; justify-content: start;}
 .paragraph2 {font-size:14px; font-family: 'Montserrat Alternates', sans-serif; line-height: 30px; margin-top:40px; 
-       color:white; width:300px; margin-left:45px; display: flex;justify-content: space-between;}
-.bgph {background-image: url('../img/Salad2.png');
-       height:500px;
-       width:655px;
-       background-repeat: no-repeat;
-       background-size: cover;}
+       color:white; width:300px; margin-left:45px;}
+
 .right-side2 {width:auto;
        height:500px;
-        background-color: #8fbc8f; display: flex; justify-content: flex-end;}
+        background-color: #608b60; display: flex; justify-content: flex-end;}
 .left-side3 {width:auto;
        height:500px;
         background-color: #FFCCB3; display: flex; justify-content: start;}
