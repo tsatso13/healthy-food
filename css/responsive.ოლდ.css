@@ -1,0 +1,83 @@
+@media(max-width:1280px) {.container { margin-left:50px;}
+}
+@media(max-width:1280px) {.nav-li { margin-right:80px;}
+}
+@media(max-width:1280px) {.container2 { margin-left:0px;}
+}
+@media (max-width:1280px) {
+    .box {width:268px; height: 476px;
+        margin-left:90px; margin-top:92px; }
+}
+
+
+
+@media(max-width:1280px) {.line1 {height:969px;
+  
+   margin-left:0px;}
+}
+
+@media(max-width:1280px) {.boldtext {margin-left:50px; margin-top:40px;}
+}
+
+@media(max-width:1280px) {.section2 {margin-top:80px; margin-left:50px; margin-bottom:30px;}
+}
+
+@media(max-width:1280px) {.container2 { margin-left:50px;}
+}
+@media(max-width:1280px) {.header-wraper2 {margin-right:180px;}
+}
+
+
+/* 414 */
+
+@media(max-width:828px) {.container { margin-left:50px;}
+}
+@media(max-width:828px) {.navigation {display: none;}
+ .burger-icon {display: block; margin-right:10px;}
+}
+@media(max-width:828px) {.container2 { margin-left:0px;  }
+}
+@media (max-width:828px) {
+    .box {width:268px; 
+        margin-left:70px; margin-top:92px; }
+}
+
+@media(max-width:828px) {.line1 { flex-wrap: wrap;
+  
+   margin-left:0px; flex-direction: column;}
+}
+
+@media(max-width:828px) {.boldtext {margin-left:50px; margin-top:40px;}
+}
+
+@media(max-width:828px) {.section2 {margin-top:80px; margin-left:50px; margin-bottom:30px;}
+}
+
+@media(max-width:828px) {.container2 { margin-left:10px;}
+}
+@media(max-width:828px) {.header-wraper2 {margin-right:180px;}
+}
+
+@media(max-width:828px) {.line2 { flex-wrap: wrap;
+  
+    margin-left:0px; flex-direction: column;}
+ }
+ @media(max-width:828px) {.line { height: 350px;  display: flex;}
+ }
+
+ @media(max-width:828px) {.right-box {margin-top:30px; margin-bottom:50px; margin-left:40px;
+    width: 360px;}
+ }
+ @media(max-width:828px) {.button2 {width:173px;
+    height: 106px;
+    background-color:#FFBF9D;
+    border-radius: 4px; 
+    color:#FFF;
+    font-size:18px;
+    font-family: 'Montserrat', sans-serif;
+    text-align:center;
+    padding: 33px 44px 43px 44px ;} 
+  }
+  @media(max-width:828px) {.leftbox {width:472px;
+    height:121px; margin-left:10px; margin-top:30px;}
+  }
