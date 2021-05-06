@@ -262,7 +262,7 @@ div.transbox p {
 input { width:352px;
 		height: 60px; margin-bottom:16px;}
 .divider {display: flex;}
-.textareaform {width:720px;
+.textareaform {max-width:720px; width:100%;
 		height: 288px;
 		resize:none; margin-right: 16px;
 		margin-left: 139px; margin-top:50px; padding-left:20px; padding-top:20px;

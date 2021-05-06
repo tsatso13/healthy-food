@@ -139,4 +139,85 @@
 
 
 /* tips */
+@media (max-width:414px) { .page   { margin-top:95px;  flex-direction: column; align-items:flex-start; }
+}
+@media (max-width:414px) { div.bg1 img {  height: 54px; width: 394px;
+   border: 2px #FFBF9D; padding-top:900px;}
+}
+@media (max-width:414px) { div.transbox   {  height:650px; width: 374px;
+   border: 2px #FFBF9D; margin-left:10px;}
+}
+
+@media (max-width:414px) { div.transbox p  {  margin: 3%; padding-top:30px;
+ }
+}
+
+
+
+/* contact */
+
+@media (max-width:414px) { .te {font-size: 10px;
+   font-family: 'Montserrat Alternates', sans-serif;
+   line-height: 30px;
+   margin-top: 50px;
+   width: 80%;
+   margin-left:10%;
+   text-align: center;}
+}
+
+@media (max-width:414px) { .bgphoto {  height:900px; margin-top:80px;
+}
+}
+@media (max-width:414px) { .contacttext { margin-left:10px;
+   width:373px; margin-top:130px;
+}
+}
+@media (max-width:414px) { .bold4  {font-size:25px;
+}
+}
+@media (max-width:414px) { .leftblock { margin-left:10px;
+}
+}
+@media (max-width:414px) { .form-wrapper { flex-direction: column; align-items:flex-start; 
+}
+}
+@media (max-width:414px) { 
+   .input-form { flex-direction: column; align-items:flex-start;  margin-left: 10px;
+}
+}
+@media (max-width:414px) { 
+   .textareaform { width: 350px;
+}
+}
+
+
+
+/* lifestyle */
+@media (max-width:414px) { 
+   .maindbotom { 
+      height:400px;  
+}
+}
+
+@media (max-width:414px) { 
+   .maindbotom { width: 350px;
+      height:300px;  font-size:8px; padding:8px 8px;
+}
+}
+
+@media (max-width:414px) { 
+   .mainnn { flex-direction: column; align-items:flex-start;  margin-left: 10px;
+}
+}
+
+@media (max-width:414px) { 
+   .mainfirst, .mainsecond, .mainthird {width:370px;
+}
+}
+@media (max-width:414px) { 
+   div.mainbutton p {font-size: 25px;
+}
+}
+
+
 
